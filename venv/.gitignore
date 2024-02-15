@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*~
+*.idea
+.DS_Store
+__pycache__
+*.pyc
+site-packages
+Scripts
+pyvenv.cfg
